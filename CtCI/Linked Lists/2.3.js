@@ -4,9 +4,9 @@ function deleteMiddle(node) {
   if (!node || !node.next) {
     return false;
   }
-  let next = node.next;
-  node.value = next.value;
-  node.next = next.next;
+  const temp = node.next;
+  node.value = temp.value;
+  node.next = temp.next;
   return true;
 }
 
