@@ -16,27 +16,36 @@ Elements|Operations|
 |O(n!)|Horrible|
 
 ### Data Structures
-1. RAM - Random Access Memory
-2. Binary numbers
-3. Fixed-width integers
-4. Arrays
-5. Strings
-6. Pointers
-7. Dynamic Arrays
-8. Linked Lists
-9. Hash Tables
-10. Stacks
-11. Queues
-12. Greedy
-13. Bit Manipulation
-14. Binary Trees
-15. Heaps
-16. Searching
-17. Sorting
-18. Binary Search Trees
-19. Backtracking
-20. Graphs
-21. Dynamic Programming
+
+Basic:
+- Array - Fixed and Dynamic
+- String
+- Linked List
+- Tree
+- Hashing
+- Stack
+- Queue
+- Two Pointer
+
+Intermediate:
+- Sorting
+- Recursion
+- Graph
+- Union Find
+- Binary Search
+- Binary Search Tree
+- Trie
+- Interval Tree
+- Heap
+
+Advanced:
+- Greedy
+- Backtracking
+- Divide and Conquer
+- Parsing
+- Memoization
+- Dynamic Programming
+- Bit Manipulation
 
 ### 5 steps to a technical question
 
